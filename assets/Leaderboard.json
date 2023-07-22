@@ -1,0 +1,17 @@
+[
+    {
+        "beginDate": 1688495689708,
+        "score": 8000,
+        "asteroidsDestroyed": 21
+    },
+    {
+        "beginDate": 1688496798931,
+        "score": 25,
+        "asteroidsDestroyed": 8
+    },
+    {
+        "beginDate": 1688496798931,
+        "score": 8,
+        "asteroidsDestroyed": 5
+    }
+]
